@@ -11,6 +11,7 @@ Welcome to the **Complete C Programming** repository! This repository is designe
 - [💻 Projects](#projects)
 - [🤝 Contributing](#contributing)
 - [📜 License](#license)
+- [📬 Contact](#contact)
 
 ## 📖 Introduction
 
@@ -51,10 +52,9 @@ To get started with C programming, you'll need to set up a development environme
 This section contains various projects to apply your C programming skills:
 
 1. **Simple Calculator**: A basic calculator application.
-2. **Library Management System**: A system to manage books in a library.
+2. **Club Management System**: A system to manage books in a library.
 3. **Bank Management System**: A system to handle banking operations.
-4. **Snake Game**: A classic snake game implementation.
-
+  
 ## 🤝 Contributing
 
 We welcome contributions to improve and expand the content of this repository. If you have any suggestions or improvements, please follow these steps:
@@ -68,3 +68,10 @@ We welcome contributions to improve and expand the content of this repository. I
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+
+Feel free to reach out for any questions or collaboration opportunities!
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/khaled-hasan-milu/)
+- **Email**: kh.milu338@gmail.com
