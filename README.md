@@ -73,5 +73,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to reach out for any questions or collaboration opportunities!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/khaled-hasan-milu/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/khaled-hasan-milu/)
 - **Email**: kh.milu338@gmail.com
