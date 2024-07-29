@@ -15,7 +15,7 @@ Hey,Welcome to the **Complete C Programming** repository! This repository is des
 
 ## 📖 Introduction
 
-C is a powerful general-purpose programming language that has been widely used for system and application software development. This repository aims to cover all essential aspects of C programming, from basic syntax to advanced topics.
+C is a powerful general-purpose programming language that has been widely used for system and application software development. This repository aims to cover all essential aspects of C programming, from basic syntax to advanced topics..
 
 ## 🚀 Getting Started
 
