@@ -24,7 +24,7 @@ To get started with C programming, you'll need to set up a development environme
 1. **Install a C Compiler**: You can use GCC (GNU Compiler Collection) or any other C compiler.
 2. **Set Up an IDE**: While you can use any text editor, IDEs like Code::Blocks, CLion, or Visual Studio Code can provide a more streamlined experience.
 
-## 🔍 Basic Concepts
+## 🔍 Basic Concepts.
 
 1. **Hello World**: The simplest C program.
 2. **Data Types**: Understanding different data types in C.
@@ -36,7 +36,7 @@ To get started with C programming, you'll need to set up a development environme
 8. **Pointers**: Basics of pointers and pointer arithmetic.
 9. **Strings**: String manipulation and functions.
 
-## ⚙️ Advanced Topics
+## ⚙️ Advanced Topics.
 
 1. **Structures and Unions**: Defining and using structures and unions.
 2. **File I/O**: Reading from and writing to files.
@@ -55,7 +55,7 @@ This section contains various projects to apply your C programming skills:
 2. **Club Management System**: A system to manage books in a library.
 3. **Bank Management System**: A system to handle banking operations.
   
-## 🤝 Contributing
+## 🤝 Contributing.
 
 We welcome contributions to improve and expand the content of this repository. If you have any suggestions or improvements, please follow these steps:
 
