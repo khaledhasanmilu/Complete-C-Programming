@@ -1,6 +1,6 @@
 # 🌟 Complete C Programming 🌟
 
-Hey,Welcome to the **Complete C Programming** repository! This repository is designed to provide a comprehensive guide and resource for learning and mastering the C programming language.
+Hey, Welcome to the **Complete C Programming** repository! This repository is designed to provide a comprehensive guide and resource for learning and mastering the C programming language.
 
 ## 📚 Table of Contents
 
