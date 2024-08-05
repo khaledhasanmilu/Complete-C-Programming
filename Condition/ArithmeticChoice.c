@@ -30,6 +30,7 @@ int main()
         if (num2 != 0)
         {
           int result = num1 / num2;
+           printf("Your division(quotient) value: %d\n",result);
         }
         else
         {
@@ -41,6 +42,5 @@ int main()
         printf("Invalid Task!\n");
         break;
     }
-    printf("Your division(quotient) value: %d\n",result);
     return 0;
 }
